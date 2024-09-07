@@ -43,7 +43,12 @@ The goal is to develop an app that automates attendance using geolocation techno
 ## Screenshots
 
 <div style="white-space: nowrap; overflow-x: auto; overflow-y: hidden; width: 100%; display: inline-block;">
-    <a href="https://freeimage.host/i/d8Krhu4"><img src="https://iili.io/d8Krhu4.th.jpg" alt="d8Krhu4.th.jpg" border="0"></a> <a href="https://freeimage.host/i/d8KrV8G"><img src="https://iili.io/d8KrV8G.th.jpg" alt="d8KrV8G.th.jpg" border="0"></a> <a href="https://freeimage.host/i/d8KrX9f"><img src="https://iili.io/d8KrX9f.th.jpg" alt="d8KrX9f.th.jpg" border="0"></a> <a href="https://freeimage.host/i/d8KrMas"><img src="https://iili.io/d8KrMas.th.jpg" alt="d8KrMas.th.jpg" border="0"></a> <a href="https://freeimage.host/i/d8Krjwl"><img src="https://iili.io/d8Krjwl.th.jpg" alt="d8Krjwl.th.jpg" border="0"></a> <a href="https://freeimage.host/i/d8Krwt2"><img src="https://iili.io/d8Krwt2.th.jpg" alt="d8Krwt2.th.jpg" border="0"></a>
+    <img src="https://iili.io/d8Krhu4.th.jpg" alt="d8Krhu4.th.jpg" border="0"  style="width: 15%; height: 30%; margin-right: 20px; display: inline-block;>-
+                          <img src="https://iili.io/d8KrV8G.th.jpg" alt="d8KrV8G.th.jpg" border="0"  style="width: 15%; height: 30%; margin-right: 20px; display: inline-block;>
+<img src="https://iili.io/d8KrX9f.th.jpg" alt="d8KrX9f.th.jpg" border="0">
+  <img src="https://iili.io/d8KrMas.th.jpg" alt="d8KrMas.th.jpg" border="0">
+<img src="https://iili.io/d8Krjwl.th.jpg" alt="d8Krjwl.th.jpg" border="0">
+<img src="https://iili.io/d8Krwt2.th.jpg" alt="d8Krwt2.th.jpg" border="0">
 </div>
 
 ## How It Works
