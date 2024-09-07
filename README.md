@@ -43,8 +43,8 @@ The goal is to develop an app that automates attendance using geolocation techno
 ## Screenshots
 
 <div style="white-space: nowrap; overflow-x: auto; overflow-y: hidden; width: 100%; display: inline-block;">
-   <img src="https://iili.io/JNqdiiJ.md.jpg" alt="Screenshot 1" style="width: 15%; height: 30%; margin-right: 20px; display: inline-block;">-
-   <img src="https://iili.io/JNq2qRS.md.jpg" alt="Screenshot 2" style="width: 15%; height: 30%; margin-right: 20px; display: inline-block;">-
+   <img src="https://iili.io/d8Krhu4.md.jpg" alt="Screenshot 1" style="width: 15%; height: 30%; margin-right: 20px; display: inline-block;">-
+   <img src="[https://iili.io/JNq2qRS.md.jpg]" alt="Screenshot 2" style="width: 15%; height: 30%; margin-right: 20px; display: inline-block;">-
    <img src="https://iili.io/JNq3n7p.md.jpg" alt="Screenshot 3" style="width: 15%; height: 30%; margin-right: 20px; display: inline-block;">-
    <img src="https://iili.io/JNq3RBs.md.jpg" alt="Screenshot 4" style="width: 15%; height: 30%; margin-right: 20px; display: inline-block;">
 </div>
