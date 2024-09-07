@@ -43,9 +43,9 @@ The goal is to develop an app that automates attendance using geolocation techno
 ## Screenshots
 
 <div style="white-space: nowrap; overflow-x: auto; overflow-y: hidden; width: 100%; display: inline-block;">
-    <img src="https://iili.io/d8Krhu4.th.jpg" alt="Image 1" style="width: 15%; height: 30%; margin-right: 20px; display: inline-block;">
-    <img src="https://iili.io/d8KrV8G.th.jpg" alt="Image 2" style="width: 15%; height: 30%; margin-right: 20px; display: inline-block;">
-    <img src="https://iili.io/d8KrX9f.th.jpg" alt="Image 3" style="width: 15%; height: 30%; margin-right: 20px; display: inline-block;">
+    <img src="https://iili.io/d8Krhu4.th.jpg" alt="Image 1" style="width: 15%; height: 30%; margin-right: 20px; display: inline-block;">-
+    <img src="https://iili.io/d8KrV8G.th.jpg" alt="Image 2" style="width: 15%; height: 30%; margin-right: 20px; display: inline-block;">-
+    <img src="https://iili.io/d8KrX9f.th.jpg" alt="Image 3" style="width: 15%; height: 30%; margin-right: 20px; display: inline-block;">-
     <img src="https://iili.io/d8KrMas.th.jpg" alt="Image 4" style="width: 15%; height: 30%; margin-right: 20px; display: inline-block;">
     <img src="https://iili.io/d8Krjwl.th.jpg" alt="Image 5" style="width: 15%; height: 30%; margin-right: 20px; display: inline-block;">
     <img src="https://iili.io/d8Krwt2.th.jpg" alt="Image 6" style="width: 15%; height: 30%; margin-right: 20px; display: inline-block;">
